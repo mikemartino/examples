@@ -1,0 +1,30 @@
+<root>
+	<EnbProfile>
+		<Name>H1K-SAM_untag</Name>
+		<Hardware>armony1000</Hardware>
+		<PlmnList>
+		  <Plmn>
+			<Mcc>312</Mcc>
+			<Mnc>198</Mnc>
+		  </Plmn>
+		  <Plmn>
+			<Mcc>389</Mcc>
+			<Mnc>156</Mnc>
+		  </Plmn>
+		</PlmnList>
+	</EnbProfile>
+	<EnbProfile>
+		<Name>SAM_untag</Name>
+		<Hardware>Armony1001</Hardware>
+		<PlmnList>
+		  <Plmn>
+			<Mcc>310</Mcc>
+			<Mnc>120</Mnc>
+		  </Plmn>
+		  <Plmn>
+			<Mcc>312</Mcc>
+			<Mnc>190</Mnc>
+		  </Plmn>
+		</PlmnList>
+	</EnbProfile>
+</root>
