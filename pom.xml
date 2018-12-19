@@ -67,10 +67,10 @@
 			<artifactId>log4j-over-slf4j</artifactId>
 			<version>1.7.10</version>
 		</dependency>
-		<scm>
-			<connection>scm:git:git@github.com:mikemartino/examples.git</connection>
-			<developerConnection>scm:git:git@github.com:mikemartino/examples.git</developerConnection>
-			<url>https://github.com/mikemartino/examples</url>
-		</scm>
-	</dependencies>
+	</dependencies>	
+	<scm>
+		<connection>scm:git:git@github.com:mikemartino/examples.git</connection>
+		<developerConnection>scm:git:git@github.com:mikemartino/examples.git</developerConnection>
+		<url>https://github.com/mikemartino/examples</url>
+	</scm>
 </project>
