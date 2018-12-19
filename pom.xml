@@ -79,5 +79,10 @@
 			<name>fake</name>
 			<url>https://fake.com</url>
 		</repository>
+    		<snapshotRepository>
+      			<id>fakeSnap</id>
+      			<name>fake snap</name>
+      			<url>https://fakesnap.com</url>
+    		</snapshotRepository>
 	</distributionManagement>
 </project>
